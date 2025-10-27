@@ -14,8 +14,6 @@ from datetime import datetime
 import mpv
 import requests
 
-import config
-
 TIMEOUT = 10 * 1000 # 10 seconds
 
 parser = argparse.ArgumentParser(description='Handy MPV sync Utility')
